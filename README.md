@@ -1,4 +1,4 @@
 Perl-Datasheet-Checking
 =======================
 
-A grade Perl Coursework in COMP3001 Scripting Languages 
+Perl Coursework in COMP3001 Scripting Languages, obtained mark = 77% 
